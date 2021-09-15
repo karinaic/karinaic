@@ -1,5 +1,4 @@
-### Hi there 👋 
-## My name is ### Karina Inche ###
+### Hi there 👋 my name is Karina Inche 
 
 <!--
 **karinaic/karinaic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
