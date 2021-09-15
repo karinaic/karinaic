@@ -1,4 +1,5 @@
-### Hi there 👋 my name is Karina Inche 
+### Welcome to my personal repository
+Hi, my name is **Karina Inche**. I am a junior **Data Scientist** and I would love to show you the work I've done so far in the wonderful world of data.
 
 <!--
 **karinaic/karinaic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
